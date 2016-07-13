@@ -1,0 +1,23 @@
+{
+  "name": "nodetorrent",
+  "version": "1.0.0",
+  "description": "Torrent Downloader Built in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshans1/nodetorrent.git"
+  },
+  "author": "Rakshan Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshans1/nodetorrent/issues"
+  },
+  "homepage": "https://github.com/rakshans1/nodetorrent#readme",
+  "dependencies": {
+    "bencode": "^0.10.0",
+    "bignum": "^0.12.5"
+  }
+}
